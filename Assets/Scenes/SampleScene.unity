@@ -647,7 +647,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Press Shaffle to start new game
+  m_Text: Press Shuffle to start new game
 --- !u!222 &197279272
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1584,7 +1584,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 624843368}
   m_LocalRotation: {x: 0.35271043, y: 0.49926755, z: -0.23281233, w: 0.75639}
-  m_LocalPosition: {x: 0.151, y: 1.303, z: -0.411}
+  m_LocalPosition: {x: 0.271, y: 1.303, z: -0.038}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3103,7 +3103,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 896340246}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.55}
+  m_LocalPosition: {x: 0, y: 0, z: 0.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2146084974}
@@ -4910,7 +4910,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Shaffle
+  m_Text: Shuffle
 --- !u!222 &1443212674
 CanvasRenderer:
   m_ObjectHideFlags: 0
