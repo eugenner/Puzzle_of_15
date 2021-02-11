@@ -200,6 +200,11 @@ public class InitBoard : MonoBehaviour
         }
     }
 
+    public void OnExitBtnClick()
+    {
+        Application.Quit();
+    }
+
     public void OnShuffleBtnClick()
     {
         StartCoroutine(ShuffleCoroutine());
