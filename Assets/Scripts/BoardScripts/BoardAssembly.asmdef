@@ -1,0 +1,18 @@
+{
+    "name": "BoardAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:190979c3ed6e41c448f5e9925429edf9",
+        "GUID:ea4a24547d7d3ef44b572674fb8e01a0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
