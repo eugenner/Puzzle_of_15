@@ -207,7 +207,20 @@ public class InitBoard : MonoBehaviour
 
     public void OnShuffleBtnClick()
     {
+        ControlBackGroundSound(false);
         StartCoroutine(ShuffleCoroutine());
+    }
+
+    private void ControlBackGroundSound(bool isSoundOn)
+    {
+        AudioSource bSound = GameObject.Find("BackGroundSound").GetComponent<AudioSource>();
+        if(isSoundOn)
+        {
+            bSound.Play();
+        } else {
+            bSound.Stop();
+        }
+        
     }
 
     private IEnumerator ShuffleCoroutine()
