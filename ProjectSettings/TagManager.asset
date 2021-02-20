@@ -7,8 +7,6 @@ TagManager:
   - Placeable
   - projectile
   - FxTemporaire
-  - piece
-  - tile
   layers:
   - Default
   - TransparentFX
